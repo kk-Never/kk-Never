@@ -1,0 +1,8 @@
+﻿  单链表.c
+D:\QG作业\单链表\单链表.c(121,14): warning C4047: “==”:“ElemType”与“void *”的间接级别不同
+D:\QG作业\单链表\单链表.c(125,4): warning C4047: “=”:“ElemType *”与“ElemType”的间接级别不同
+D:\QG作业\单链表\单链表.c(129,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“ElemType *”
+D:\QG作业\单链表\单链表.c(129,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "ElemType *" 的参数 1 冲突
+D:\QG作业\单链表\单链表.c(152,1): warning C4715: “IsLoopList”: 不是所有的控件路径都返回值
+D:\QG作业\单链表\单链表.c(190,1): warning C4716: “FindMidNode”: 必须返回一个值
+  单链表.vcxproj -> D:\QG作业\单链表\x64\Debug\单链表.exe
