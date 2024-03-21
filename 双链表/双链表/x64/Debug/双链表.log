@@ -1,0 +1,13 @@
+﻿  duLinkedlist.c
+D:\QG作业\双链表\duLinkedlist.c(41,19): warning C4047: “函数”:“DuLNode *”与“DuLNode **”的间接级别不同
+D:\QG作业\双链表\duLinkedlist.c(41,19): warning C4024: “DeleteList_DuL”: 形参和实参 1 的类型不同
+D:\QG作业\双链表\duLinkedlist.c(141,24): warning C4047: “函数”:“DuLNode *”与“DuLinkedList *”的间接级别不同
+D:\QG作业\双链表\duLinkedlist.c(141,24): warning C4024: “InsertBeforeList_DuL”: 形参和实参 1 的类型不同
+D:\QG作业\双链表\duLinkedlist.c(141,28): warning C4047: “函数”:“DuLNode *”与“DuLNode **”的间接级别不同
+D:\QG作业\双链表\duLinkedlist.c(141,28): warning C4024: “InsertBeforeList_DuL”: 形参和实参 2 的类型不同
+D:\QG作业\双链表\duLinkedlist.c(143,23): warning C4047: “函数”:“DuLNode *”与“DuLinkedList *”的间接级别不同
+D:\QG作业\双链表\duLinkedlist.c(143,23): warning C4024: “InsertAfterList_DuL”: 形参和实参 1 的类型不同
+D:\QG作业\双链表\duLinkedlist.c(143,27): warning C4047: “函数”:“DuLNode *”与“DuLNode **”的间接级别不同
+D:\QG作业\双链表\duLinkedlist.c(143,27): warning C4024: “InsertAfterList_DuL”: 形参和实参 2 的类型不同
+D:\QG作业\双链表\duLinkedlist.c(190,4): warning C4047: “=”:“ElemType *”与“ElemType”的间接级别不同
+  双链表.vcxproj -> D:\QG作业\双链表\x64\Debug\双链表.exe
